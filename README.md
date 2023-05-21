@@ -1,4 +1,4 @@
-Poppins: fastn Font Package
+Poppins: fastn Font Typography Package
 
 This repository contains a [fastn font typography package](https://fastn.com/featured/fonts-typography/) containing [Google Font: 
 Poppins](https://fonts.google.com/specimen/Poppins/about).
