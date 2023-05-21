@@ -9,8 +9,7 @@ Designers: Indian Type Foundry, Jonny Pinhorn
 
 ## How To Use This Font In Your fastn Package:
 
-[Read the docs and demo](https://fastn-community.github.io/poppins-font
-/).
+[Read the docs and demo](https://fastn-community.github.io/poppins-font/).
 
 Also, check [poppins-font-typography](https://fastn-community.github.iopoppins-font-typography/)
 
